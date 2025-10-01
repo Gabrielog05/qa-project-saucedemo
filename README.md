@@ -27,11 +27,13 @@ This repository contains manual tests applied to [SauceDemo](https://www.saucede
 
 📁 qa-project-saucedemo/
 ├── documents
+
     └── en
         └── test-plan-and-cases-en.xlsx
     └── pt-br
         └── test-plan-and-cases-pt.xlsx
 └── screenshots/
+
     └── TP01
         └── error password.png
     └── TP02
